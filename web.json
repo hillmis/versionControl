@@ -1,7 +1,7 @@
 {
   "versionName": "2.1",     
   "versionCode": 21,         
-  "description": "1.修读一些bug。2.更新了音乐源",   
+  "description": "1.修复一些bug<br/>2.更新了音乐源",   
   "downloadUrl": "https://pan.quark.cn/s/b57d512c4840",  
   "forceUpdate": false  
 }
