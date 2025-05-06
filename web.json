@@ -1,6 +1,6 @@
 {
   "versionName": "1.1.2",     
-  "versionCode": 3,         
+  "versionCode": 4,         
   "description": "1.修复一些bug<br/>2.完善并修复歌词显示<br/>更新方法：点击立即更新后用浏览器打开，找到hillmusic文件夹找到最新版本保存到网盘后即可下载",   
   "downloadUrl": "https://pan.quark.cn/s/47fa77bd2e96",  
   "forceUpdate": false  
