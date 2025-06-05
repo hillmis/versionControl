@@ -1,7 +1,7 @@
 {
-  "versionName": "2.1.0",     
-  "versionCode": 7,         
-  "description": "1.修复一些bug<br/>2.新增本地音乐功能<br/>更新方法：点击立即更新后用浏览器打开，找到hillmusic文件夹找到最新版本保存到网盘后即可下载",   
+  "versionName": "2.1.5",     
+  "versionCode": 8,         
+  "description": "1.修复一些bug<br/>2.完善本地音乐功能<br/>3.UI极致美化<br/>更新方法：点击立即更新后用浏览器打开，找到hillmusic文件夹找到最新版本保存到网盘后即可下载",   
   "downloadUrl": "https://pan.quark.cn/s/e95909437fb0",  
   "forceUpdate": false
 }
