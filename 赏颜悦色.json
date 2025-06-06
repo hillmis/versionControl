@@ -1,7 +1,7 @@
 {
-  "versionName": "2.1.1",     
-  "versionCode": 3,         
-  "description": "1.修复一些bug<br/>2.修复双播放器功能，提高播放丝滑度<br/>3.隐藏加载过程中播放器组件，提高美观性<br/>更新方法：点击立即更新后用浏览器打开，找到对应文件夹找到最新版本保存到网盘后即可下载",   
+  "versionName": "2.1.2",     
+  "versionCode": 5,         
+  "description": "1.修复所有已知bug<br/>2.移除双播放器以修复视频快速跳过问题<br/>3.添加点击特效和jk背景图，页面颜值提升<br/>4.新增四个高质量接口<br/>更新方法：点击立即更新后用浏览器打开，找到对应文件夹找到最新版本保存到网盘后即可下载",   
   "downloadUrl": "https://pan.quark.cn/s/bf64b440a97d",  
   "forceUpdate": false
 }
