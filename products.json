@@ -1,80 +1,92 @@
 [
     {
         "img": "https://via.placeholder.com/40",
-        "title": "任务管理器 Pro",
-        "tags": ["APP", "原创"],
-        "version": "v2.3.1",
-        "date": "2023-06-15",
-        "desc": "一款高效的跨平台任务管理工具，支持团队协作、进度跟踪和智能提醒，帮助您提高生产力和管理项目。",
-        "features": ["生产力", "团队协作", "跨平台"],
+        "title": "资源页",
+        "tags": ["网站", "整合"],
+        "desc": "就是一些东东整合在一起",
         "links": [
-            { "href": "#", "text": "网站", "icon": "fas fa-external-link-alt", "type": "primary" },
-            { "href": "#", "text": "下载", "icon": "fas fa-download", "type": "secondary" }
+            { "href": "http://link3.cc/liu13", "text": "访问", "icon": "material-icons folder", "type": "primary" }
         ]
     },
     {
         "img": "https://via.placeholder.com/40",
-        "title": "设计资源库",
-        "tags": ["网站", "分享"],
-        "version": "v1.2.0",
-        "date": "2023-05-22",
-        "desc": "收集整理的高质量UI设计资源和模板，包括图标集、配色方案、字体组合等，助力设计师快速开展项目。",
-        "features": ["设计资源", "UI模板", "免费素材"],
+        "title": "HillMis",
+        "tags": ["博客", "个人"],
+        "desc": "我的博客，还没有做",
         "links": [
-            { "href": "#", "text": "网站", "icon": "fas fa-external-link-alt", "type": "primary" },
-            { "href": "#", "text": "下载", "icon": "fas fa-download", "type": "secondary" }
+            { "href": "https://hillmis.github.io/", "text": "访问", "icon": "material-icons article", "type": "primary" }
         ]
     },
     {
         "img": "https://via.placeholder.com/40",
-        "title": "健康追踪助手",
-        "tags": ["APP", "原创"],
-        "version": "v3.0.0",
-        "date": "2023-07-10",
-        "desc": "综合健康管理应用，追踪运动、饮食、睡眠等多维度健康数据，提供个性化建议和可视化报告。",
-        "features": ["健康管理", "数据追踪", "智能分析"],
+        "title": "赏颜阁",
+        "tags": ["图片", "娱乐"],
+        "desc": "顾名思义，皇上请欣赏",
         "links": [
-            { "href": "#", "text": "官网", "icon": "fas fa-external-link-alt", "type": "primary" },
-            { "href": "#", "text": "下载", "icon": "fas fa-download", "type": "secondary" }
+            { "href": "http://ss.liu13.fun", "text": "访问", "icon": "material-icons photo", "type": "primary" }
         ]
     },
     {
         "img": "https://via.placeholder.com/40",
-        "title": "极简笔记",
-        "tags": ["APP", "原创"],
-        "version": "v1.5.3",
-        "date": "2023-04-18",
-        "desc": "专注于写作体验的极简笔记应用，支持Markdown语法、云同步，去除一切多余功能，让您专注于内容创作。",
-        "features": ["笔记应用", "Markdown", "极简设计"],
+        "title": "背单词",
+        "tags": ["学习", "工具"],
+        "desc": "刷视频还不忘背单词",
         "links": [
-            { "href": "#", "text": "更多", "icon": "fas fa-external-link-alt", "type": "primary" },
-            { "href": "#", "text": "下载", "icon": "fas fa-download", "type": "secondary" }
+            { "href": "https://danci.rth2.xyz/", "text": "访问", "icon": "material-icons school", "type": "primary" }
         ]
     },
     {
         "img": "https://via.placeholder.com/40",
-        "title": "AI图片生成器",
-        "tags": ["网站", "分享"],
-        "version": "Beta",
-        "date": "2023-08-01",
-        "desc": "基于最新AI技术的在线图片生成工具，通过简单描述即可创建独特艺术作品，支持多种艺术风格选择。",
-        "features": ["AI绘画", "图像生成", "创意工具"],
+        "title": "听乐轩",
+        "tags": ["音乐", "娱乐"],
+        "desc": "一个没什么用的音乐播放页",
         "links": [
-            { "href": "#", "text": "体验", "icon": "fas fa-external-link-alt", "type": "primary" },
-            { "href": "#", "text": "教程", "icon": "fas fa-book", "type": "secondary" }
+            { "href": "http://music.liu13.fun", "text": "访问", "icon": "material-icons music_note", "type": "primary" }
         ]
     },
     {
         "img": "https://via.placeholder.com/40",
-        "title": "代码片段管理器",
-        "tags": ["APP", "原创"],
-        "version": "v2.1.4",
-        "date": "2023-07-28",
-        "desc": "专为开发者设计的代码片段管理工具，支持多语言高亮、标签分类、团队共享，提高编码效率的好帮手。",
-        "features": ["开发工具", "代码管理", "程序员必备"],
+        "title": "软件库",
+        "tags": ["软件", "分享"],
+        "desc": "分享一堆好用的软件",
         "links": [
-            { "href": "#", "text": "官网", "icon": "fas fa-external-link-alt", "type": "primary" },
-            { "href": "#", "text": "下载", "icon": "fas fa-download", "type": "secondary" }
+            { "href": "https://pan.quark.cn/s/1a31c91d4a08", "text": "访问", "icon": "material-icons cloud_download", "type": "primary" }
+        ]
+    },
+    {
+        "img": "https://via.placeholder.com/40",
+        "title": "Web开发",
+        "tags": ["开发", "工具"],
+        "desc": "一个web开发工具",
+        "links": [
+            { "href": "https://hillcode.rth2.xyz/", "text": "访问", "icon": "material-icons computer", "type": "primary" }
+        ]
+    },
+    {
+        "img": "https://via.placeholder.com/40",
+        "title": "看小说",
+        "tags": ["阅读", "小说"],
+        "desc": "一个看小说的阅读器",
+        "links": [
+            { "href": "https://hreading.rth2.xyz/", "text": "访问", "icon": "material-icons book", "type": "primary" }
+        ]
+    },
+    {
+        "img": "https://via.placeholder.com/40",
+        "title": "MultiWidget",
+        "tags": ["网页挂件", "工具"],
+        "desc": "一个网页挂件",
+        "links": [
+            { "href": "https://widgetjs.rth2.xyz/", "text": "访问", "icon": "fas fa-th-large", "type": "primary" }
+        ]
+    },
+    {
+        "img": "https://via.placeholder.com/40",
+        "title": "Hillmusic",
+        "tags": ["音乐", "播放器"],
+        "desc": "一个传新的音乐播放器",
+        "links": [
+            { "href": "https://hillmusic.rth2.xyz/", "text": "访问", "icon": "fas fa-music", "type": "primary" }
         ]
     }
 ]
