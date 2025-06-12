@@ -1,0 +1,80 @@
+[
+    {
+        "img": "https://via.placeholder.com/40",
+        "title": "任务管理器 Pro",
+        "tags": ["APP", "原创"],
+        "version": "v2.3.1",
+        "date": "2023-06-15",
+        "desc": "一款高效的跨平台任务管理工具，支持团队协作、进度跟踪和智能提醒，帮助您提高生产力和管理项目。",
+        "features": ["生产力", "团队协作", "跨平台"],
+        "links": [
+            { "href": "#", "text": "网站", "icon": "fas fa-external-link-alt", "type": "primary" },
+            { "href": "#", "text": "下载", "icon": "fas fa-download", "type": "secondary" }
+        ]
+    },
+    {
+        "img": "https://via.placeholder.com/40",
+        "title": "设计资源库",
+        "tags": ["网站", "分享"],
+        "version": "v1.2.0",
+        "date": "2023-05-22",
+        "desc": "收集整理的高质量UI设计资源和模板，包括图标集、配色方案、字体组合等，助力设计师快速开展项目。",
+        "features": ["设计资源", "UI模板", "免费素材"],
+        "links": [
+            { "href": "#", "text": "网站", "icon": "fas fa-external-link-alt", "type": "primary" },
+            { "href": "#", "text": "下载", "icon": "fas fa-download", "type": "secondary" }
+        ]
+    },
+    {
+        "img": "https://via.placeholder.com/40",
+        "title": "健康追踪助手",
+        "tags": ["APP", "原创"],
+        "version": "v3.0.0",
+        "date": "2023-07-10",
+        "desc": "综合健康管理应用，追踪运动、饮食、睡眠等多维度健康数据，提供个性化建议和可视化报告。",
+        "features": ["健康管理", "数据追踪", "智能分析"],
+        "links": [
+            { "href": "#", "text": "官网", "icon": "fas fa-external-link-alt", "type": "primary" },
+            { "href": "#", "text": "下载", "icon": "fas fa-download", "type": "secondary" }
+        ]
+    },
+    {
+        "img": "https://via.placeholder.com/40",
+        "title": "极简笔记",
+        "tags": ["APP", "原创"],
+        "version": "v1.5.3",
+        "date": "2023-04-18",
+        "desc": "专注于写作体验的极简笔记应用，支持Markdown语法、云同步，去除一切多余功能，让您专注于内容创作。",
+        "features": ["笔记应用", "Markdown", "极简设计"],
+        "links": [
+            { "href": "#", "text": "更多", "icon": "fas fa-external-link-alt", "type": "primary" },
+            { "href": "#", "text": "下载", "icon": "fas fa-download", "type": "secondary" }
+        ]
+    },
+    {
+        "img": "https://via.placeholder.com/40",
+        "title": "AI图片生成器",
+        "tags": ["网站", "分享"],
+        "version": "Beta",
+        "date": "2023-08-01",
+        "desc": "基于最新AI技术的在线图片生成工具，通过简单描述即可创建独特艺术作品，支持多种艺术风格选择。",
+        "features": ["AI绘画", "图像生成", "创意工具"],
+        "links": [
+            { "href": "#", "text": "体验", "icon": "fas fa-external-link-alt", "type": "primary" },
+            { "href": "#", "text": "教程", "icon": "fas fa-book", "type": "secondary" }
+        ]
+    },
+    {
+        "img": "https://via.placeholder.com/40",
+        "title": "代码片段管理器",
+        "tags": ["APP", "原创"],
+        "version": "v2.1.4",
+        "date": "2023-07-28",
+        "desc": "专为开发者设计的代码片段管理工具，支持多语言高亮、标签分类、团队共享，提高编码效率的好帮手。",
+        "features": ["开发工具", "代码管理", "程序员必备"],
+        "links": [
+            { "href": "#", "text": "官网", "icon": "fas fa-external-link-alt", "type": "primary" },
+            { "href": "#", "text": "下载", "icon": "fas fa-download", "type": "secondary" }
+        ]
+    }
+]
