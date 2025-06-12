@@ -2,91 +2,201 @@
     {
         "img": "https://via.placeholder.com/40",
         "title": "资源页",
-        "tags": ["网站", "整合"],
+        "tags": [
+            "网站",
+            "整合"
+        ],
+        "version": "",
+        "date": "",
         "desc": "就是一些东东整合在一起",
+        "features": [],
         "links": [
-            { "href": "http://link3.cc/liu13", "text": "访问", "icon": "material-icons folder", "type": "primary" }
+            {
+                "href": "http://link3.cc/liu13",
+                "text": "访问",
+                "icon": "material-icons folder",
+                "type": "primary"
+            }
         ]
     },
     {
         "img": "https://via.placeholder.com/40",
         "title": "HillMis",
-        "tags": ["博客", "个人"],
+        "tags": [
+            "博客",
+            "个人"
+        ],
+        "version": "",
+        "date": "",
         "desc": "我的博客，还没有做",
+        "features": [],
         "links": [
-            { "href": "https://hillmis.github.io/", "text": "访问", "icon": "material-icons article", "type": "primary" }
+            {
+                "href": "https://hillmis.github.io/",
+                "text": "访问",
+                "icon": "material-icons article",
+                "type": "primary"
+            }
         ]
     },
     {
         "img": "https://via.placeholder.com/40",
         "title": "赏颜阁",
-        "tags": ["图片", "娱乐"],
+        "tags": [
+            "图片",
+            "娱乐"
+        ],
+        "version": "",
+        "date": "",
         "desc": "顾名思义，皇上请欣赏",
+        "features": [],
         "links": [
-            { "href": "http://ss.liu13.fun", "text": "访问", "icon": "material-icons photo", "type": "primary" }
+            {
+                "href": "http://ss.liu13.fun",
+                "text": "访问",
+                "icon": "material-icons photo",
+                "type": "primary"
+            }
         ]
     },
     {
         "img": "https://via.placeholder.com/40",
         "title": "背单词",
-        "tags": ["学习", "工具"],
+        "tags": [
+            "学习",
+            "工具"
+        ],
+        "version": "",
+        "date": "",
         "desc": "刷视频还不忘背单词",
+        "features": [],
         "links": [
-            { "href": "https://danci.rth2.xyz/", "text": "访问", "icon": "material-icons school", "type": "primary" }
+            {
+                "href": "https://danci.rth2.xyz/",
+                "text": "访问",
+                "icon": "material-icons school",
+                "type": "primary"
+            }
         ]
     },
     {
         "img": "https://via.placeholder.com/40",
         "title": "听乐轩",
-        "tags": ["音乐", "娱乐"],
+        "tags": [
+            "音乐",
+            "娱乐"
+        ],
+        "version": "",
+        "date": "",
         "desc": "一个没什么用的音乐播放页",
+        "features": [],
         "links": [
-            { "href": "http://music.liu13.fun", "text": "访问", "icon": "material-icons music_note", "type": "primary" }
+            {
+                "href": "http://music.liu13.fun",
+                "text": "访问",
+                "icon": "material-icons music_note",
+                "type": "primary"
+            }
         ]
     },
     {
         "img": "https://via.placeholder.com/40",
         "title": "软件库",
-        "tags": ["软件", "分享"],
+        "tags": [
+            "软件",
+            "分享"
+        ],
+        "version": "",
+        "date": "",
         "desc": "分享一堆好用的软件",
+        "features": [],
         "links": [
-            { "href": "https://pan.quark.cn/s/1a31c91d4a08", "text": "访问", "icon": "material-icons cloud_download", "type": "primary" }
+            {
+                "href": "https://pan.quark.cn/s/1a31c91d4a08",
+                "text": "访问",
+                "icon": "material-icons cloud_download",
+                "type": "primary"
+            }
         ]
     },
     {
         "img": "https://via.placeholder.com/40",
         "title": "Web开发",
-        "tags": ["开发", "工具"],
+        "tags": [
+            "开发",
+            "工具"
+        ],
+        "version": "",
+        "date": "",
         "desc": "一个web开发工具",
+        "features": [],
         "links": [
-            { "href": "https://hillcode.rth2.xyz/", "text": "访问", "icon": "material-icons computer", "type": "primary" }
+            {
+                "href": "https://hillcode.rth2.xyz/",
+                "text": "访问",
+                "icon": "material-icons computer",
+                "type": "primary"
+            }
         ]
     },
     {
         "img": "https://via.placeholder.com/40",
         "title": "看小说",
-        "tags": ["阅读", "小说"],
+        "tags": [
+            "阅读",
+            "小说"
+        ],
+        "version": "",
+        "date": "",
         "desc": "一个看小说的阅读器",
+        "features": [],
         "links": [
-            { "href": "https://hreading.rth2.xyz/", "text": "访问", "icon": "material-icons book", "type": "primary" }
+            {
+                "href": "https://hreading.rth2.xyz/",
+                "text": "访问",
+                "icon": "material-icons book",
+                "type": "primary"
+            }
         ]
     },
     {
         "img": "https://via.placeholder.com/40",
         "title": "MultiWidget",
-        "tags": ["网页挂件", "工具"],
+        "tags": [
+            "网页挂件",
+            "工具"
+        ],
+        "version": "",
+        "date": "",
         "desc": "一个网页挂件",
+        "features": [],
         "links": [
-            { "href": "https://widgetjs.rth2.xyz/", "text": "访问", "icon": "fas fa-th-large", "type": "primary" }
+            {
+                "href": "https://widgetjs.rth2.xyz/",
+                "text": "访问",
+                "icon": "fas fa-th-large",
+                "type": "primary"
+            }
         ]
     },
     {
         "img": "https://via.placeholder.com/40",
         "title": "Hillmusic",
-        "tags": ["音乐", "播放器"],
+        "tags": [
+            "音乐",
+            "播放器"
+        ],
+        "version": "",
+        "date": "",
         "desc": "一个传新的音乐播放器",
+        "features": [],
         "links": [
-            { "href": "https://hillmusic.rth2.xyz/", "text": "访问", "icon": "fas fa-music", "type": "primary" }
+            {
+                "href": "https://hillmusic.rth2.xyz/",
+                "text": "访问",
+                "icon": "fas fa-music",
+                "type": "primary"
+            }
         ]
     }
 ]
