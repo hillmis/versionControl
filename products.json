@@ -4,10 +4,10 @@
         "title": "资源页",
         "tags": [
             "网站",
-            "整合"
+            "分享"
         ],
-        "version": "",
-        "date": "",
+      "version": "无",
+        "date": "2025-6-12",
         "desc": "就是一些东东整合在一起",
         "features": [],
         "links": [
@@ -23,11 +23,11 @@
         "img": "https://via.placeholder.com/40",
         "title": "HillMis",
         "tags": [
-            "博客",
-            "个人"
+            "网站",
+            "原创"
         ],
-        "version": "",
-        "date": "",
+       "version": "无",
+        "date": "2025-6-12",
         "desc": "我的博客，还没有做",
         "features": [],
         "links": [
@@ -43,11 +43,11 @@
         "img": "https://via.placeholder.com/40",
         "title": "赏颜阁",
         "tags": [
-            "图片",
-            "娱乐"
+            "网站",
+            "分享"
         ],
-        "version": "",
-        "date": "",
+     "version": "无",
+        "date": "2025-6-12",
         "desc": "顾名思义，皇上请欣赏",
         "features": [],
         "links": [
@@ -63,11 +63,11 @@
         "img": "https://via.placeholder.com/40",
         "title": "背单词",
         "tags": [
-            "学习",
-            "工具"
+            "网站",
+            "原创"
         ],
-        "version": "",
-        "date": "",
+    "version": "无",
+        "date": "2025-6-12",
         "desc": "刷视频还不忘背单词",
         "features": [],
         "links": [
@@ -83,11 +83,11 @@
         "img": "https://via.placeholder.com/40",
         "title": "听乐轩",
         "tags": [
-            "音乐",
-            "娱乐"
+            "网站",
+            "原创"
         ],
-        "version": "",
-        "date": "",
+    "version": "无",
+        "date": "2025-6-12",
         "desc": "一个没什么用的音乐播放页",
         "features": [],
         "links": [
@@ -103,11 +103,11 @@
         "img": "https://via.placeholder.com/40",
         "title": "软件库",
         "tags": [
-            "软件",
+            "网站",
             "分享"
         ],
-        "version": "",
-        "date": "",
+   "version": "无",
+        "date": "2025-6-12",
         "desc": "分享一堆好用的软件",
         "features": [],
         "links": [
@@ -123,11 +123,11 @@
         "img": "https://via.placeholder.com/40",
         "title": "Web开发",
         "tags": [
-            "开发",
-            "工具"
+            "网站",
+            "原创"
         ],
-        "version": "",
-        "date": "",
+     "version": "无",
+        "date": "2025-6-12",
         "desc": "一个web开发工具",
         "features": [],
         "links": [
@@ -143,11 +143,11 @@
         "img": "https://via.placeholder.com/40",
         "title": "看小说",
         "tags": [
-            "阅读",
-            "小说"
+            "网站",
+            "分享"
         ],
-        "version": "",
-        "date": "",
+        "version": "无",
+        "date": "2025-6-12",
         "desc": "一个看小说的阅读器",
         "features": [],
         "links": [
@@ -163,11 +163,11 @@
         "img": "https://via.placeholder.com/40",
         "title": "MultiWidget",
         "tags": [
-            "网页挂件",
-            "工具"
+            "网站",
+            "分享"
         ],
-        "version": "",
-        "date": "",
+       "version": "无",
+        "date": "2025-6-12",
         "desc": "一个网页挂件",
         "features": [],
         "links": [
@@ -183,11 +183,11 @@
         "img": "https://via.placeholder.com/40",
         "title": "Hillmusic",
         "tags": [
-            "音乐",
-            "播放器"
+            "APP",
+            "原创"
         ],
-        "version": "",
-        "date": "",
+        "version": "无",
+        "date": "2025-6-12",
         "desc": "一个传新的音乐播放器",
         "features": [],
         "links": [
