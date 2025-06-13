@@ -1,4 +1,23 @@
 {
-  "text": "🏮185G长期大流量卡，毕业季特惠！点击前往免费办理🏮",
-  "url": "https://haokawx.lot-ml.com/Product/index/519797"
+  "banners": [
+    {
+      "text": "185G长期大流量卡，毕业季特惠！点击前往免费办理",
+      "url": "https://haokawx.lot-ml.com/Product/index/519797",
+      "bgColor": "bg-black/20",
+      "hoverColor": "hover:bg-black/40"
+    },
+    {
+      "text": "暑期特惠！200G超大流量卡限时抢购",
+      "url": "https://example.com/summer-promo",
+      "bgColor": "bg-blue-500/80",
+      "hoverColor": "hover:bg-blue-600/90"
+    },
+    {
+      "text": "新生专属福利！首月0元体验",
+      "url": "https://example.com/new-student",
+      "bgColor": "bg-purple-500/80",
+      "hoverColor": "hover:bg-purple-600/90"
+    }
+  ],
+  "interval": 10000
 }
