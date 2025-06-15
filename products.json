@@ -56,6 +56,12 @@
                 "text": "访问",
                 "icon": "material-icons photo",
                 "type": "primary"
+            },
+             {
+                "href": "http://ss.liu13.fun",
+                "text": "访问",
+                "icon": "material-icons photo",
+                "type": "primary"
             }
         ]
     },
