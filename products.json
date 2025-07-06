@@ -1,208 +1,164 @@
 [
-    {
-        "img": "https://via.placeholder.com/40",
-        "title": "资源页",
-        "tags": [
-            "网站",
-            "分享"
-        ],
-      "version": "无",
-        "date": "2025-6-12",
-        "desc": "就是一些东东整合在一起",
-        "features": [],
-        "links": [
-            {
-                "href": "http://link3.cc/liu13",
-                "text": "访问",
-                "icon": "material-icons folder",
-                "type": "primary"
-            }
-        ]
-    },
-    {
-        "img": "https://via.placeholder.com/40",
-        "title": "HillMis",
-        "tags": [
-            "网站",
-            "原创"
-        ],
-       "version": "无",
-        "date": "2025-6-12",
-        "desc": "我的博客，还没有做",
-        "features": [],
-        "links": [
-            {
-                "href": "https://hillmis.github.io/",
-                "text": "访问",
-                "icon": "material-icons article",
-                "type": "primary"
-            }
-        ]
-    },
-    {
-        "img": "https://via.placeholder.com/40",
-        "title": "赏颜阁",
-        "tags": [
-            "网站",
-            "分享"
-        ],
-     "version": "无",
-        "date": "2025-6-12",
-        "desc": "顾名思义，皇上请欣赏",
-        "features": [],
-        "links": [
-            {
-                "href": "http://ss.liu13.fun",
-                "text": "访问",
-                "icon": "material-icons photo",
-                "type": "primary"
-            },
-             {
-                "href": "http://ss.liu13.fun",
-                "text": "访问",
-                "icon": "material-icons photo",
-                "type": "primary"
-            }
-        ]
-    },
-    {
-        "img": "https://via.placeholder.com/40",
-        "title": "背单词",
-        "tags": [
-            "网站",
-            "原创"
-        ],
-    "version": "无",
-        "date": "2025-6-12",
-        "desc": "刷视频还不忘背单词",
-        "features": [],
-        "links": [
-            {
-                "href": "https://danci.rth2.xyz/",
-                "text": "访问",
-                "icon": "material-icons school",
-                "type": "primary"
-            }
-        ]
-    },
-    {
-        "img": "https://via.placeholder.com/40",
-        "title": "听乐轩",
-        "tags": [
-            "网站",
-            "原创"
-        ],
-    "version": "无",
-        "date": "2025-6-12",
-        "desc": "一个没什么用的音乐播放页",
-        "features": [],
-        "links": [
-            {
-                "href": "http://music.liu13.fun",
-                "text": "访问",
-                "icon": "material-icons music_note",
-                "type": "primary"
-            }
-        ]
-    },
-    {
-        "img": "https://via.placeholder.com/40",
-        "title": "软件库",
-        "tags": [
-            "网站",
-            "分享"
-        ],
-   "version": "无",
-        "date": "2025-6-12",
-        "desc": "分享一堆好用的软件",
-        "features": [],
-        "links": [
-            {
-                "href": "https://pan.quark.cn/s/1a31c91d4a08",
-                "text": "访问",
-                "icon": "material-icons cloud_download",
-                "type": "primary"
-            }
-        ]
-    },
-    {
-        "img": "https://via.placeholder.com/40",
-        "title": "Web开发",
-        "tags": [
-            "网站",
-            "原创"
-        ],
-     "version": "无",
-        "date": "2025-6-12",
-        "desc": "一个web开发工具",
-        "features": [],
-        "links": [
-            {
-                "href": "https://hillcode.rth2.xyz/",
-                "text": "访问",
-                "icon": "material-icons computer",
-                "type": "primary"
-            }
-        ]
-    },
-    {
-        "img": "https://via.placeholder.com/40",
-        "title": "看小说",
-        "tags": [
-            "网站",
-            "分享"
-        ],
-        "version": "无",
-        "date": "2025-6-12",
-        "desc": "一个看小说的阅读器",
-        "features": [],
-        "links": [
-            {
-                "href": "https://hreading.rth2.xyz/",
-                "text": "访问",
-                "icon": "material-icons book",
-                "type": "primary"
-            }
-        ]
-    },
-    {
-        "img": "https://via.placeholder.com/40",
-        "title": "MultiWidget",
-        "tags": [
-            "网站",
-            "分享"
-        ],
-       "version": "无",
-        "date": "2025-6-12",
-        "desc": "一个网页挂件",
-        "features": [],
-        "links": [
-            {
-                "href": "https://widgetjs.rth2.xyz/",
-                "text": "访问",
-                "icon": "fas fa-th-large",
-                "type": "primary"
-            }
-        ]
-    },
-    {
-        "img": "https://via.placeholder.com/40",
-        "title": "Hillmusic",
-        "tags": [
-            "APP",
-            "原创"
-        ],
-        "version": "无",
-        "date": "2025-6-12",
-        "desc": "一个传新的音乐播放器",
-        "features": [],
-        "links": [
-            {
-                "href": "https://hillmusic.rth2.xyz/",
-                "text": "访问",
-                "icon": "fas fa-music",
-                "type": "primary"
-            }
-        ]
-    }
+  {
+    "title": "灵动岛资源管理器",
+    "tags": ["软件", "推荐"],
+    "secondaryTags": ["原创"],
+    "author": "山雾",
+    "date": "2025-07-07",
+    "version": "1.2.0",
+    "desc": "一款简洁高效的资源管理工具，支持多种格式，界面美观，适合个人和团队使用。",
+    "img": "https://s3.bmp.ovh/imgs/2025/06/12/0d55b22c4b260952.jpg",
+    "carousel": [
+      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot1.jpg",
+      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot2.jpg"
+    ],
+    "features": ["多平台支持", "云同步", "界面美观"],
+    "links": [
+      { "href": "https://example.com/download", "text": "下载" },
+      { "href": "https://example.com/docs", "text": "文档" }
+    ]
+  },
+  {
+    "title": "极简笔记",
+    "tags": ["软件", "工具"],
+    "secondaryTags": ["无广告"],
+    "author": "小明",
+    "date": "2025-06-30",
+    "version": "3.0.1",
+    "desc": "极简风格的笔记应用，支持Markdown，数据本地加密存储。",
+    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot2.jpg",
+    "carousel": [
+      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot2.jpg"
+    ],
+    "features": ["Markdown", "本地加密"],
+    "links": [
+      { "href": "https://notetool.com", "text": "官网" }
+    ]
+  },
+  {
+    "title": "在线配色网站",
+    "tags": ["网站", "设计"],
+    "secondaryTags": ["推荐"],
+    "author": "设计师A",
+    "date": "2025-05-20",
+    "desc": "提供丰富配色方案，支持一键复制色值，适合UI设计师。",
+    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot3.jpg",
+    "carousel": [
+      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot3.jpg"
+    ],
+    "links": [
+      { "href": "https://color.example.com", "text": "访问" }
+    ]
+  },
+  {
+    "title": "Python入门教程",
+    "tags": ["教程", "学习"],
+    "secondaryTags": ["原创"],
+    "author": "编程猫",
+    "date": "2025-04-15",
+    "desc": "零基础Python教程，图文并茂，适合初学者。",
+    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot1.jpg",
+    "carousel": [
+      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot1.jpg"
+    ],
+    "links": [
+      { "href": "https://python-course.com", "text": "查看教程" }
+    ]
+  },
+  {
+    "title": "高清壁纸素材库",
+    "tags": ["素材", "娱乐"],
+    "secondaryTags": ["分享"],
+    "author": "壁纸君",
+    "date": "2025-03-10",
+    "desc": "每日更新高清壁纸，免费下载无水印。",
+    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot2.jpg",
+    "carousel": [
+      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot2.jpg",
+      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot3.jpg"
+    ],
+    "links": [
+      { "href": "https://wallpaper.com", "text": "进入素材库" }
+    ]
+  },
+  {
+    "title": "开源OCR工具",
+    "tags": ["工具", "开源"],
+    "secondaryTags": ["绿色"],
+    "author": "开源社区",
+    "date": "2025-02-28",
+    "version": "0.9.8",
+    "desc": "免费开源的图片文字识别工具，支持多语言。",
+    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot3.jpg",
+    "carousel": [
+      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot3.jpg"
+    ],
+    "features": ["多语言识别", "无广告"],
+    "links": [
+      { "href": "https://github.com/opensource/ocr", "text": "GitHub" }
+    ]
+  },
+  {
+    "title": "电子书分享站",
+    "tags": ["书籍", "学习"],
+    "secondaryTags": ["限免"],
+    "author": "书友会",
+    "date": "2025-01-18",
+    "desc": "各类电子书免费下载，定期限免活动。",
+    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot1.jpg",
+    "carousel": [
+      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot1.jpg"
+    ],
+    "links": [
+      { "href": "https://ebook.com", "text": "访问书库" }
+    ]
+  },
+  {
+    "title": "AI绘画工具",
+    "tags": ["软件", "娱乐"],
+    "secondaryTags": ["推荐"],
+    "author": "AI实验室",
+    "date": "2025-07-01",
+    "version": "2.5.0",
+    "desc": "基于AI的绘画生成工具，支持多种风格转换。",
+    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot2.jpg",
+    "carousel": [
+      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot2.jpg",
+      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot3.jpg"
+    ],
+    "features": ["AI风格转换", "高分辨率输出"],
+    "links": [
+      { "href": "https://aiart.com", "text": "体验AI绘画" }
+    ]
+  },
+  {
+    "title": "免费视频剪辑教程",
+    "tags": ["教程", "工具"],
+    "secondaryTags": ["分享"],
+    "author": "剪辑师",
+    "date": "2025-06-10",
+    "desc": "免费视频剪辑全流程教学，适合新手入门。",
+    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot3.jpg",
+    "carousel": [
+      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot3.jpg"
+    ],
+    "links": [
+      { "href": "https://videoedit.com", "text": "观看教程" }
+    ]
+  },
+  {
+    "title": "在线思维导图",
+    "tags": ["网站", "工具"],
+    "secondaryTags": ["开源"],
+    "author": "MindMap团队",
+    "date": "2025-05-05",
+    "desc": "无需注册即可使用的在线思维导图工具，支持导出多种格式。",
+    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot1.jpg",
+    "carousel": [
+      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot1.jpg"
+    ],
+    "links": [
+      { "href": "https://mindmap.com", "text": "立即使用" }
+    ]
+  }
 ]
