@@ -9,8 +9,7 @@
     "secondaryTags": ["原创", "无广告"],
     "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot1.jpg",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot1.jpg",
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot2.jpg"
+      
     ],
     "features": ["云同步", "Markdown", "多端支持"],
     "links": [
