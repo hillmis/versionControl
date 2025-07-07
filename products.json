@@ -5,13 +5,14 @@
     "author": "山雾",
     "date": "2025-07-01",
     "version": "1.2.0",
-    "tags": ["软件", "效率"],
-    "secondaryTags": ["原创", "无广告"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot1.jpg",
+    "tags": ["软件"],
+    "secondaryTags": ["原创"],
+    "icon": "https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["云同步", "Markdown", "多端支持"],
+    
     "links": [
       {"text": "官网", "href": "https://note.shanwu.com"},
       {"text": "下载", "href": "https://note.shanwu.com/download"}
@@ -23,14 +24,14 @@
     "author": "山雾",
     "date": "2025-06-28",
     "version": "2.0.1",
-    "tags": ["网站", "资源"],
-    "secondaryTags": ["分享", "推荐"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot2.jpg",
+    "tags": ["网站"],
+    "secondaryTags": ["分享"],
+    "icon": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot2.jpg",
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot3.jpg"
+      "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80",
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["壁纸下载", "分类筛选"],
+    
     "links": [
       {"text": "访问", "href": "https://wallpaper.shanwu.com"}
     ]
@@ -41,13 +42,13 @@
     "author": "山雾",
     "date": "2025-06-20",
     "version": "1.0.0",
-    "tags": ["网站", "工具"],
-    "secondaryTags": ["原创", "绿色"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot3.jpg",
+    "tags": ["网站"],
+    "secondaryTags": ["原创"],
+    "icon": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot3.jpg"
+      "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["二维码", "图片压缩", "文本加密"],
+    
     "links": [
       {"text": "工具箱", "href": "https://tools.shanwu.com"}
     ]
@@ -58,13 +59,13 @@
     "author": "山雾",
     "date": "2025-06-15",
     "version": "1.0.0",
-    "tags": ["教程", "学习"],
-    "secondaryTags": ["推荐", "限免"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot4.jpg",
+    "tags": ["教程"],
+    "secondaryTags": ["推荐"],
+    "icon": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot4.jpg"
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["路线图", "前端基础"],
+    
     "links": [
       {"text": "查看", "href": "https://learn.shanwu.com/frontend"}
     ]
@@ -75,13 +76,13 @@
     "author": "山雾",
     "date": "2025-06-10",
     "version": "1.3.2",
-    "tags": ["网站", "工具"],
-    "secondaryTags": ["开源", "无广告"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot5.jpg",
+    "tags": ["网站"],
+    "secondaryTags": ["开源"],
+    "icon": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot5.jpg"
+      "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["实时预览", "多格式导出"],
+    
     "links": [
       {"text": "编辑器", "href": "https://md.shanwu.com"}
     ]
@@ -92,13 +93,13 @@
     "author": "山雾",
     "date": "2025-06-08",
     "version": "0.9.8",
-    "tags": ["软件", "资源"],
-    "secondaryTags": ["限免", "绿色"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot6.jpg",
+    "tags": ["软件"],
+    "secondaryTags": ["限免"],
+    "icon": "https://images.unsplash.com/photo-1465101178521-c1a9136a3fd9?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot6.jpg"
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["云存储", "多端同步"],
+    
     "links": [
       {"text": "官网", "href": "https://yun.shanwu.com"}
     ]
@@ -109,13 +110,13 @@
     "author": "山雾",
     "date": "2025-06-05",
     "version": "1.1.0",
-    "tags": ["软件", "代码"],
-    "secondaryTags": ["原创", "开源"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot7.jpg",
+    "tags": ["软件"],
+    "secondaryTags": ["原创"],
+    "icon": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot7.jpg"
+      "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["多语言支持", "云同步"],
+    
     "links": [
       {"text": "下载", "href": "https://snippet.shanwu.com"}
     ]
@@ -126,13 +127,13 @@
     "author": "山雾",
     "date": "2025-06-01",
     "version": "2.2.1",
-    "tags": ["软件", "工具"],
-    "secondaryTags": ["绿色", "无广告"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot8.jpg",
+    "tags": ["软件"],
+    "secondaryTags": ["绿色"],
+    "icon": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot8.jpg"
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["书签同步", "加密备份"],
+    
     "links": [
       {"text": "下载", "href": "https://bookmark.shanwu.com"}
     ]
@@ -143,13 +144,13 @@
     "author": "山雾",
     "date": "2025-05-28",
     "version": "1.0.0",
-    "tags": ["网站", "工具"],
-    "secondaryTags": ["原创", "限免"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot9.jpg",
+    "tags": ["网站"],
+    "secondaryTags": ["原创"],
+    "icon": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot9.jpg"
+      "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["PDF合并", "PDF压缩"],
+    
     "links": [
       {"text": "工具", "href": "https://pdf.shanwu.com"}
     ]
@@ -160,13 +161,13 @@
     "author": "山雾",
     "date": "2025-05-25",
     "version": "0.8.0",
-    "tags": ["软件", "AI"],
-    "secondaryTags": ["原创", "推荐"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot10.jpg",
+    "tags": ["软件"],
+    "secondaryTags": ["原创"],
+    "icon": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot10.jpg"
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["智能问答", "写作辅助"],
+    
     "links": [
       {"text": "下载", "href": "https://ai.shanwu.com"}
     ]
@@ -177,13 +178,13 @@
     "author": "山雾",
     "date": "2025-05-20",
     "version": "1.0.0",
-    "tags": ["软件", "娱乐"],
-    "secondaryTags": ["原创", "绿色"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot11.jpg",
+    "tags": ["软件"],
+    "secondaryTags": ["原创"],
+    "icon": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot11.jpg"
+      "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["歌词显示", "主题切换"],
+    
     "links": [
       {"text": "下载", "href": "https://music.shanwu.com"}
     ]
@@ -194,13 +195,13 @@
     "author": "山雾",
     "date": "2025-05-18",
     "version": "1.0.0",
-    "tags": ["网站", "工具"],
-    "secondaryTags": ["开源", "无广告"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot12.jpg",
+    "tags": ["网站"],
+    "secondaryTags": ["开源"],
+    "icon": "https://images.unsplash.com/photo-1465101178521-c1a9136a3fd9?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot12.jpg"
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["图片压缩", "格式转换"],
+    
     "links": [
       {"text": "工具", "href": "https://img.shanwu.com"}
     ]
@@ -211,13 +212,13 @@
     "author": "山雾",
     "date": "2025-05-15",
     "version": "1.0.0",
-    "tags": ["软件", "效率"],
-    "secondaryTags": ["原创", "绿色"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot13.jpg",
+    "tags": ["软件"],
+    "secondaryTags": ["原创"],
+    "icon": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot13.jpg"
+      "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["日历", "提醒"],
+    
     "links": [
       {"text": "下载", "href": "https://calendar.shanwu.com"}
     ]
@@ -228,13 +229,13 @@
     "author": "山雾",
     "date": "2025-05-12",
     "version": "1.0.0",
-    "tags": ["软件", "效率"],
-    "secondaryTags": ["原创", "无广告"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot14.jpg",
+    "tags": ["软件"],
+    "secondaryTags": ["原创"],
+    "icon": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot14.jpg"
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["记账", "数据导出"],
+    
     "links": [
       {"text": "下载", "href": "https://account.shanwu.com"}
     ]
@@ -245,13 +246,13 @@
     "author": "山雾",
     "date": "2025-05-10",
     "version": "1.0.0",
-    "tags": ["网站", "工具"],
-    "secondaryTags": ["原创", "限免"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot15.jpg",
+    "tags": ["网站"],
+    "secondaryTags": ["原创"],
+    "icon": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot15.jpg"
+      "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["短链生成", "统计分析"],
+    
     "links": [
       {"text": "生成器", "href": "https://short.shanwu.com"}
     ]
@@ -262,13 +263,13 @@
     "author": "山雾",
     "date": "2025-05-08",
     "version": "1.0.0",
-    "tags": ["网站", "工具"],
-    "secondaryTags": ["开源", "绿色"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot16.jpg",
+    "tags": ["网站"],
+    "secondaryTags": ["开源"],
+    "icon": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot16.jpg"
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["RSS聚合", "标签管理"],
+    
     "links": [
       {"text": "聚合", "href": "https://rss.shanwu.com"}
     ]
@@ -279,13 +280,13 @@
     "author": "山雾",
     "date": "2025-05-05",
     "version": "1.0.0",
-    "tags": ["软件", "工具"],
-    "secondaryTags": ["原创", "绿色"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot17.jpg",
+    "tags": ["软件"],
+    "secondaryTags": ["原创"],
+    "icon": "https://images.unsplash.com/photo-1465101178521-c1a9136a3fd9?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot17.jpg"
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["壁纸切换", "多平台"],
+    
     "links": [
       {"text": "下载", "href": "https://wallauto.shanwu.com"}
     ]
@@ -296,13 +297,13 @@
     "author": "山雾",
     "date": "2025-05-02",
     "version": "1.0.0",
-    "tags": ["网站", "工具"],
-    "secondaryTags": ["开源", "限免"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot18.jpg",
+    "tags": ["网站"],
+    "secondaryTags": ["开源"],
+    "icon": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot18.jpg"
+      "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["OCR识别", "批量处理"],
+    
     "links": [
       {"text": "识别", "href": "https://ocr.shanwu.com"}
     ]
@@ -313,13 +314,13 @@
     "author": "山雾",
     "date": "2025-04-28",
     "version": "1.0.0",
-    "tags": ["网站", "工具"],
-    "secondaryTags": ["原创", "推荐"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot19.jpg",
+    "tags": ["网站"],
+    "secondaryTags": ["原创"],
+    "icon": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot19.jpg"
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["多人协作", "Excel兼容"],
+    
     "links": [
       {"text": "表格", "href": "https://sheet.shanwu.com"}
     ]
@@ -330,13 +331,13 @@
     "author": "山雾",
     "date": "2025-04-25",
     "version": "1.0.0",
-    "tags": ["网站", "工具"],
-    "secondaryTags": ["原创", "绿色"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot20.jpg",
+    "tags": ["网站"],
+    "secondaryTags": ["原创"],
+    "icon": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot20.jpg"
+      "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["画板", "导出图片"],
+    
     "links": [
       {"text": "画板", "href": "https://draw.shanwu.com"}
     ]
@@ -347,13 +348,13 @@
     "author": "山雾",
     "date": "2025-04-22",
     "version": "1.0.0",
-    "tags": ["网站", "工具"],
-    "secondaryTags": ["原创", "限免"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot21.jpg",
+    "tags": ["网站"],
+    "secondaryTags": ["原创"],
+    "icon": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot21.jpg"
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["思维导图", "协作"],
+    
     "links": [
       {"text": "导图", "href": "https://mind.shanwu.com"}
     ]
@@ -364,13 +365,13 @@
     "author": "山雾",
     "date": "2025-04-20",
     "version": "1.0.0",
-    "tags": ["软件", "工具"],
-    "secondaryTags": ["原创", "绿色"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot22.jpg",
+    "tags": ["软件"],
+    "secondaryTags": ["原创"],
+    "icon": "https://images.unsplash.com/photo-1465101178521-c1a9136a3fd9?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot22.jpg"
+      "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["API测试", "导入导出"],
+    
     "links": [
       {"text": "下载", "href": "https://api.shanwu.com"}
     ]
@@ -381,13 +382,13 @@
     "author": "山雾",
     "date": "2025-04-18",
     "version": "1.0.0",
-    "tags": ["网站", "工具"],
-    "secondaryTags": ["开源", "无广告"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot23.jpg",
+    "tags": ["网站"],
+    "secondaryTags": ["开源"],
+    "icon": "https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot23.jpg"
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["多语言", "简洁界面"],
+    
     "links": [
       {"text": "翻译", "href": "https://trans.shanwu.com"}
     ]
@@ -398,13 +399,13 @@
     "author": "山雾",
     "date": "2025-04-15",
     "version": "1.0.0",
-    "tags": ["网站", "工具"],
-    "secondaryTags": ["原创", "限免"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot24.jpg",
+    "tags": ["网站"],
+    "secondaryTags": ["原创"],
+    "icon": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot24.jpg"
+      "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["简历生成", "PDF导出"],
+    
     "links": [
       {"text": "简历", "href": "https://cv.shanwu.com"}
     ]
@@ -415,13 +416,13 @@
     "author": "山雾",
     "date": "2025-04-12",
     "version": "1.0.0",
-    "tags": ["网站", "资源"],
-    "secondaryTags": ["开源", "分享"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot25.jpg",
+    "tags": ["网站"],
+    "secondaryTags": ["开源"],
+    "icon": "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot25.jpg"
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["图片上传", "外链"],
+    
     "links": [
       {"text": "图床", "href": "https://imgbed.shanwu.com"}
     ]
@@ -432,13 +433,13 @@
     "author": "山雾",
     "date": "2025-04-10",
     "version": "1.0.0",
-    "tags": ["网站", "代码"],
-    "secondaryTags": ["原创", "限免"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot26.jpg",
+    "tags": ["网站"],
+    "secondaryTags": ["原创"],
+    "icon": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot26.jpg"
+      "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["多语言", "在线运行"],
+    
     "links": [
       {"text": "运行", "href": "https://run.shanwu.com"}
     ]
@@ -449,13 +450,13 @@
     "author": "山雾",
     "date": "2025-04-08",
     "version": "1.0.0",
-    "tags": ["网站", "工具"],
-    "secondaryTags": ["原创", "开源"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot27.jpg",
+    "tags": ["网站"],
+    "secondaryTags": ["原创"],
+    "icon": "https://images.unsplash.com/photo-1465101178521-c1a9136a3fd9?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot27.jpg"
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["正则测试", "可视化"],
+    
     "links": [
       {"text": "测试", "href": "https://regex.shanwu.com"}
     ]
@@ -466,13 +467,13 @@
     "author": "山雾",
     "date": "2025-04-05",
     "version": "1.0.0",
-    "tags": ["网站", "工具"],
-    "secondaryTags": ["原创", "绿色"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot28.jpg",
+    "tags": ["网站"],
+    "secondaryTags": ["原创"],
+    "icon": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot28.jpg"
+      "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["SVG编辑", "导入导出"],
+    
     "links": [
       {"text": "编辑器", "href": "https://svg.shanwu.com"}
     ]
@@ -483,13 +484,13 @@
     "author": "山雾",
     "date": "2025-04-02",
     "version": "1.0.0",
-    "tags": ["网站", "工具"],
-    "secondaryTags": ["原创", "无广告"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot29.jpg",
+    "tags": ["网站"],
+    "secondaryTags": ["原创"],
+    "icon": "https://images.unsplash.com/photo-1464983953574-0892a716854b?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot29.jpg"
+      "https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["JSON格式化", "多主题"],
+    
     "links": [
       {"text": "格式化", "href": "https://json.shanwu.com"}
     ]
@@ -500,13 +501,13 @@
     "author": "山雾",
     "date": "2025-03-30",
     "version": "1.0.0",
-    "tags": ["网站", "工具"],
-    "secondaryTags": ["原创", "限免"],
-    "img": "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot30.jpg",
+    "tags": ["网站"],
+    "secondaryTags": ["原创"],
+    "icon": "https://images.unsplash.com/photo-1519125323398-675f0ddb6308?auto=format&fit=crop&w=400&q=80",
     "carousel": [
-      "https://cdn.jsdelivr.net/gh/hillmis/static-pic-bed/shot30.jpg"
+      "https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80"
     ],
-    "features": ["二维码", "批量生成"],
+    
     "links": [
       {"text": "生成", "href": "https://qr.shanwu.com"}
     ]
