@@ -8,7 +8,7 @@
       "type": "iframe"
     },
     {
-      "url": "https://example.com/ad1",
+      "url": "https://mlink.cc/hillmis",
       "weight": 3,
       "duration": 20,
       "type": "iframe"
@@ -17,7 +17,7 @@
       "url": "https://example.com/ad2",
       "weight": 2,
       "duration": 15,
-      "type": "iframe"
+      "type": "pictire"
     }
   ],
   "rotationInterval": 3600,
