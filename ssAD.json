@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "ads": [
+    {
+      "url": "https://mlink.cc/hillmis",
+      "weight": 5,
+      "duration": 30,
+      "type": "iframe"
+    },
+    {
+      "url": "https://example.com/ad1",
+      "weight": 3,
+      "duration": 20,
+      "type": "iframe"
+    },
+    {
+      "url": "https://example.com/ad2",
+      "weight": 2,
+      "duration": 15,
+      "type": "iframe"
+    }
+  ],
+  "rotationInterval": 3600,
+  "lastUpdated": "2023-11-15T12:00:00Z"
+}
