@@ -17,7 +17,7 @@
       "url": "https://s3.bmp.ovh/imgs/2025/06/13/7ca1c42d0bbda19e.gif",
       "weight": 2,
       "duration": 15,
-      "type": "gif"
+      "type": "iframe"
     }
   ],
   "rotationInterval": 3600,
