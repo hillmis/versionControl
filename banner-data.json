@@ -27,8 +27,8 @@
 {
       "text": "一个永久个人名片网页",
       "url": "https://link3.cc/auths?id=lliyh6id",
-      "bgColor": "bg-black-500/80",
-      "hoverColor": "hover:bg-black-600/90"
+        "bgColor": "bg-black/20",
+      "hoverColor": "hover:bg-black/40"
     },
 {
       "text": "领取福利资源",
