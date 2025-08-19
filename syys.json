@@ -114,7 +114,7 @@
     },
      {
       "name": "福利",
-      "api": "https://api.liu13.fun/fl.php"
+      "api": "http://api.liu13.fun/fl.php"
     },
      {
       "name": "测试",
