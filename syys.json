@@ -1,87 +1,39 @@
 {
   "categories": [
     {
-      "name": "美女",
-      "api": "http://api.yujn.cn/api/zzxjj.php?type=video"
+      "name": "随机",
+      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&type=all"
     },
     {
-      "name": "钰足",
-      "api": "http://api.yujn.cn/api/yuzu.php?type=video"
+      "name": "小姐",
+      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&type=sister"
     },
     {
       "name": "甜妹",
-      "api": "http://api.yujn.cn/api/tianmei.php?type=video"
+      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&type=tianmei"
     },
     {
-      "name": "JK1",
-      "api": "http://api.yujn.cn/api/jksp.php?type=video"
-    },
-    {
-      "name": "欲梦",
-      "api": "http://api.yujn.cn/api/ndym.php?type=video"
-    },
-    {
-      "name": "双倍",
-      "api": "http://api.yujn.cn/api/sbkl.php?type=video"
-    },
-    {
-      "name": "热舞",
-      "api": "http://api.yujn.cn/api/rewu.php?type=video"
-    },
-    {
-      "name": "萝莉",
-      "api": "http://api.yujn.cn/api/luoli.php?type=video"
-    },
-    {
-      "name": "汉服",
-      "api": "http://api.yujn.cn/api/hanfu.php?type=video"
-    },
-    {
-      "name": "慢摇",
-      "api": "http://api.yujn.cn/api/manyao.php?type=video"
+      "name": "美腿",
+      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&type=meitui"
     },
     {
       "name": "吊带",
-      "api": "http://api.yujn.cn/api/diaodai.php?type=video"
+      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&type=diaodai"
     },
     {
-      "name": "COS",
-      "api": "http://api.yujn.cn/api/COS.php?type=video"
+      "name": "热舞",
+      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&type=rewu"
     },
     {
-      "name": "女高",
-      "api": "http://api.yujn.cn/api/nvgao.php?type=video"
+      "name": "变装",
+      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&type=bianzhuang"
     },
     {
-      "name": "街拍",
-      "api": "http://api.yujn.cn/api/jiepai.php?type=video"
+      "name": "慢摇",
+      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&type=manyao"
     },
     {
-      "name": "身材",
-      "api": "http://api.yujn.cn/api/wmsc.php?type=video"
-    },
-    {
-      "name": "舞蹈",
-      "api": "http://api.yujn.cn/api/shwd.php?type=video"
-    },
-    {
-      "name": "穿搭",
-      "api": "http://api.yujn.cn/api/chuanda.php?type=video"
-    },
-    {
-      "name": "婧祎",
-      "api": "http://api.yujn.cn/api/jjy.php?type=video"
-    },
-    {
-      "name": "若楠",
-      "api": "http://api.yujn.cn/api/zrn.php?type=video"
-    },
-    {
-      "name": "丝袜",
-      "api": "http://api.yujn.cn/api/heisis.php?type=video"
-    },
-    {
-      "name": "JK2",
+      "name": "JK",
       "api": "https://sbtxqq.com/api/jksp.php?type=video"
     },
     {
@@ -95,6 +47,10 @@
     {
       "name": "推荐3",
       "api": "https://sbtxqq.com/api/xqtj.php?type=video"
+    },
+    {
+      "name": "推荐4",
+      "api": "https://cyapi.top/API/cytj.php"
     },
     {
       "name": "优质",
@@ -112,15 +68,67 @@
       "name": "清纯",
       "api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=QingCun"
     },
-     {
-      "name": "福利",
-      "api": "http://api.liu13.fun/fl.php"
+    {
+      "name": "JK",
+      "api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=jk"
     },
-     {
+    {
+      "name": "欲梦",
+      "api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=YuMeng"
+    },
+    {
+      "name": "女高",
+      "api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=NvGao"
+    },
+    {
+      "name": "玉足",
+      "api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=YuZu"
+    },
+    {
+      "name": "蛇姐",
+      "api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=SheJie"
+    },
+    {
+      "name": "穿搭",
+      "api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=ChuanDa"
+    },
+    {
+      "name": "高质",
+      "api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=GaoZhiLiangXiaoJieJie"
+    },
+    {
+      "name": "汉服",
+      "api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=HanFu"
+    },
+    {
+      "name": "黑手",
+      "api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=HeiSi"
+    },
+    {
+      "name": "变装",
+      "api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=BianZhuang"
+    },
+    {
+      "name": "萝莉",
+      "api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=LuoLi"
+    },
+    {
+      "name": "甜妹",
+      "api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=TianMei"
+    },
+    {
+      "name": "白丝",
+      "api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=BaiSi"
+    },
+    {
+      "name": "福利",
+      "api": "https://api.hillmis.cn/fl.php"
+    },
+    {
       "name": "测试",
       "api": ""
     },
-     {
+    {
       "name": "测试",
       "api": ""
     }
