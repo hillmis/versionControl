@@ -2,35 +2,35 @@
   "categories": [
     {
       "name": "随机",
-      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&type=all"
+      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&url302=true&type=all"
     },
     {
       "name": "小姐",
-      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&type=sister"
+      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&url302=true&type=sister"
     },
     {
       "name": "甜妹",
-      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&type=tianmei"
+      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&url302=true&type=tianmei"
     },
     {
       "name": "美腿",
-      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&type=meitui"
+      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&url302=true&type=meitui"
     },
     {
       "name": "吊带",
-      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&type=diaodai"
+      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&url302=true&type=diaodai"
     },
     {
       "name": "热舞",
-      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&type=rewu"
+      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&url302=true&type=rewu"
     },
     {
       "name": "变装",
-      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&type=bianzhuang"
+      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&url302=true&type=bianzhuang"
     },
     {
       "name": "慢摇",
-      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&type=manyao"
+      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&url302=true&type=manyao"
     },
     {
       "name": "JK",
