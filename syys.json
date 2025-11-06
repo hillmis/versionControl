@@ -1,278 +1,140 @@
 {
-
-"categories": [
-
-{
-
-"name": "随机",
-
-"api": "https://api.lolimi.cn/API/meinv/api.php"
-
-},
-
-{
-
-"name": "高质量小姐",
-
-"api": "https://api.lolimi.cn/API/xjj/xjj.php"
-
-},
-
-{
-
-"name": "甜妹",
-
-"api": "https://sbtxqq.com/api/tianmei.php"
-
-},
-
-{
-
-"name": "大长腿",
-
-"api": "https://sbtxqq.com/api/tui.php"
-
-},
-
-{
-
-"name": "吊带",
-
-"api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&type=diaodai"
-
-},
-
-{
-
-"name": "丝袜舞蹈",
-
-"api": "https://sbtxqq.com/api/shwd.php"
-
-},
-
-{
-
-"name": "变装",
-
-"api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&type=bianzhuang"
-
-},
-
-{
-
-"name": "慢慢摇",
-
-"api": "https://sbtxqq.com/api/manyao.php"
-
-},
-
-{
-
-"name": "JK",
-
-"api": "https://sbtxqq.com/api/jksp.php"
-
-},
-
-{
-
-"name": "推荐1",
-
-"api": "https://cyapi.top/API/cytj.php"
-
-},
-
-{
-
-"name": "推荐2",
-
-"api": "https://sbtxqq.com/api/sktj.php?type=video"
-
-},
-
-{
-
-"name": "推荐3",
-
-"api": "https://sbtxqq.com/api/xqtj.php?type=video"
-
-},
-
-{
-
-"name": "推荐4",
-
-"api": "https://cyapi.top/API/cytj.php"
-
-},
-
-{
-
-"name": "优质",
-
-"api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=GaoZhiLiangXiaoJieJie"
-
-},
-
-{
-
-"name": "性感",
-
-"api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=jk"
-
-},
-
-{
-
-"name": "女大",
-
-"api": "https://sbtxqq.com/api/nvda.php"
-
-},
-
-{
-
-"name": "清纯",
-
-"api": "https://sbtxqq.com/api/qcxl.php"
-
-},
-
-{
-
-"name": "美女JK图",
-
-"api": "https://sbtxqq.com/api/mnjkt.php"
-
-},
-
-{
-
-"name": "欲梦",
-
-"api": "https://sbtxqq.com/api/ndym.php"
-
-},
-
-{
-
-"name": "女高",
-
-"api": "https://sbtxqq.com/api/nvgao.php"
-
-},
-
-{
-
-"name": "玉足",
-
-"api": "https://sbtxqq.com/api/yuzu.php"
-
-},
-
-{
-
-"name": "蛇姐",
-
-"api": "https://sbtxqq.com/api/shejie.php"
-
-},
-
-{
-
-"name": "穿搭",
-
-"api": "https://sbtxqq.com/api/cdxl.php"
-
-},
-
-{
-
-"name": "高质",
-
-"api": "https://sbtxqq.com/api/gzlxjj.php"
-
-},
-
-{
-
-"name": "汉服",
-
-"api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=HanFu"
-
-},
-
-{
-
-"name": "黑手",
-
-"api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=HeiSi"
-
-},
-
-{
-
-"name": "变装",
-
-"api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=BianZhuang"
-
-},
-
-{
-
-"name": "萝莉",
-
-"api": "https://sbtxqq.com/api/llsp.php"
-
-},
-
-{
-
-"name": "甜妹",
-
-"api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=TianMei"
-
-},
-
-{
-
-"name": "白丝",
-
-"api": "https://sbtxqq.com/api/bsxl.php"
-
-},
-
-{
-
-"name": "福利",
-
-"api": "https://api.hillmis.cn/fl.php"
-
-},
-
-{
-
-"name": "优选",
-
-"api": "https://api.hillmis.cn/youxuan.php"
-
-},
-
-{
-
-"name": "遇见",
-
-"api": "https://api.yujn.cn/api/zzxjj.php?type=video"
-
-},
-
-{
-
-＂name＂:"cos系列"，
-
-"api":＂https://sbtxqq.com/api/cossp.php＂
-
-}
-]
-
+  "categories": [
+    {
+      "name": "随机",
+      "api": "https://api.lolimi.cn/API/meinv/api.php"
+    },
+    {
+      "name": "高质量小姐",
+      "api": "https://api.lolimi.cn/API/xjj/xjj.php"
+    },
+    {
+      "name": "甜妹",
+      "api": "https://sbtxqq.com/api/tianmei.php"
+    },
+    {
+      "name": "大长腿",
+      "api": "https://sbtxqq.com/api/tui.php"
+    },
+    {
+      "name": "吊带",
+      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&type=diaodai"
+    },
+    {
+      "name": "丝袜舞蹈",
+      "api": "https://sbtxqq.com/api/shwd.php"
+    },
+    {
+      "name": "变装",
+      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&type=bianzhuang"
+    },
+    {
+      "name": "慢慢摇",
+      "api": "https://sbtxqq.com/api/manyao.php"
+    },
+    {
+      "name": "JK",
+      "api": "https://sbtxqq.com/api/jksp.php"
+    },
+    {
+      "name": "推荐1",
+      "api": "https://cyapi.top/API/cytj.php"
+    },
+    {
+      "name": "推荐2",
+      "api": "https://sbtxqq.com/api/sktj.php?type=video"
+    },
+    {
+      "name": "推荐3",
+      "api": "https://sbtxqq.com/api/xqtj.php?type=video"
+    },
+    {
+      "name": "推荐4",
+      "api": "https://cyapi.top/API/cytj.php"
+    },
+    {
+      "name": "优质",
+      "api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=GaoZhiLiangXiaoJieJie"
+    },
+    {
+      "name": "性感",
+      "api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=jk"
+    },
+    {
+      "name": "女大",
+      "api": "https://sbtxqq.com/api/nvda.php"
+    },
+    {
+      "name": "清纯",
+      "api": "https://sbtxqq.com/api/qcxl.php"
+    },
+    {
+      "name": "美女JK图",
+      "api": "https://sbtxqq.com/api/mnjkt.php"
+    },
+    {
+      "name": "欲梦",
+      "api": "https://sbtxqq.com/api/ndym.php"
+    },
+    {
+      "name": "女高",
+      "api": "https://sbtxqq.com/api/nvgao.php"
+    },
+    {
+      "name": "玉足",
+      "api": "https://sbtxqq.com/api/yuzu.php"
+    },
+    {
+      "name": "蛇姐",
+      "api": "https://sbtxqq.com/api/shejie.php"
+    },
+    {
+      "name": "穿搭",
+      "api": "https://sbtxqq.com/api/cdxl.php"
+    },
+    {
+      "name": "高质",
+      "api": "https://sbtxqq.com/api/gzlxjj.php"
+    },
+    {
+      "name": "汉服",
+      "api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=HanFu"
+    },
+    {
+      "name": "黑手",
+      "api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=HeiSi"
+    },
+    {
+      "name": "变装",
+      "api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=BianZhuang"
+    },
+    {
+      "name": "萝莉",
+      "api": "https://sbtxqq.com/api/llsp.php"
+    },
+    {
+      "name": "甜妹",
+      "api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=TianMei"
+    },
+    {
+      "name": "白丝",
+      "api": "https://sbtxqq.com/api/bsxl.php"
+    },
+    {
+      "name": "福利",
+      "api": "https://api.hillmis.cn/fl.php"
+    },
+    {
+      "name": "优选",
+      "api": "https://api.hillmis.cn/youxuan.php"
+    },
+    {
+      "name": "遇见",
+      "api": "https://api.yujn.cn/api/zzxjj.php?type=video"
+    },
+    {
+      "name": "cos系列",
+      "api": "https://sbtxqq.com/api/cossp.php"
+    }
+  ]
 }
