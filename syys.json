@@ -1,24 +1,12 @@
 {
   "categories": [
     {
-      "name": "随机",
-      "api": "https://api.lolimi.cn/API/meinv/api.php"
-    },
-    {
       "name": "高质量小姐",
       "api": "https://api.lolimi.cn/API/xjj/xjj.php"
     },
     {
       "name": "甜妹",
       "api": "https://sbtxqq.com/api/tianmei.php"
-    },
-    {
-      "name": "大长腿",
-      "api": "https://sbtxqq.com/api/tui.php"
-    },
-    {
-      "name": "吊带",
-      "api": "https://api.yunmge.com/api/avideo?token=7a050d65d69855c9337d484d6e170c00&mode=video&type=diaodai"
     },
     {
       "name": "丝袜舞蹈",
@@ -38,7 +26,7 @@
     },
     {
       "name": "推荐1",
-      "api": "https://cyapi.top/API/cytj.php"
+      "api": "https://sbtxqq.com/api/qttj.php?type=video"
     },
     {
       "name": "推荐2",
@@ -47,10 +35,6 @@
     {
       "name": "推荐3",
       "api": "https://sbtxqq.com/api/xqtj.php?type=video"
-    },
-    {
-      "name": "推荐4",
-      "api": "https://cyapi.top/API/cytj.php"
     },
     {
       "name": "优质",
@@ -69,8 +53,8 @@
       "api": "https://sbtxqq.com/api/qcxl.php"
     },
     {
-      "name": "美女JK图",
-      "api": "https://sbtxqq.com/api/mnjkt.php"
+      "name": "JK",
+      "api": "https://api.mmp.cc/api/ksvideo?type=mp4&id=jk"
     },
     {
       "name": "欲梦",
