@@ -1,12 +1,15 @@
 {
   "tasks": [
     {
-      "id": "share_app",
-      "title": "分享给好友",
-      "description": "把 LyncMusic 推荐给 1 位好友即可完成",
-      "points": 15,
+      "id": "quark_transfer_daily",
+      "title": "夸克转存奖励",
+      "description": "复制链接到夸克完成转存，每天一次",
+      "points": 40,
       "type": "daily",
-      "requirement": { "type": "manual", "hint": "分享后点击领取" }
+      "requirement": {
+        "type": "quark_transfer",
+        "link": "https://pan.quark.cn/s/xxxxxxxx#/list/share"
+      }
     },
     {
       "id": "listen_60",
@@ -15,14 +18,6 @@
       "points": 30,
       "type": "daily",
       "requirement": { "type": "listen_minutes", "minutes": 60 }
-    },
-    {
-      "id": "discover_visit",
-      "title": "浏览发现页",
-      "description": "进入“发现”页即可完成",
-      "points": 5,
-      "type": "daily",
-      "requirement": { "type": "discover_visit" }
     },
     {
       "id": "collect_5",
