@@ -8,24 +8,16 @@
       "type": "daily",
       "requirement": {
         "type": "quark_transfer",
-        "link": "https://pan.quark.cn/s/xxxxxxxx#/list/share"
+        "link": "https://pan.quark.cn/s/be0691bb5331#/"
       }
     },
     {
-      "id": "listen_60",
-      "title": "收听满 60 分钟",
-      "description": "今日累计播放满 1 小时",
-      "points": 30,
+      "id": "share_app",
+      "title": "分享给好友",
+      "description": "把 LyncMusic 推荐给 1 位好友即可完成",
+      "points": 15,
       "type": "daily",
-      "requirement": { "type": "listen_minutes", "minutes": 60 }
-    },
-    {
-      "id": "collect_5",
-      "title": "收藏 5 首歌曲",
-      "description": "今天新增收藏歌曲满 5 首",
-      "points": 20,
-      "type": "daily",
-      "requirement": { "type": "collect_count", "count": 5 }
+      "requirement": { "type": "manual", "hint": "分享后点击领取" }
     },
     {
       "id": "first_time_bonus",
