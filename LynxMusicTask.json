@@ -3,7 +3,7 @@
     {
       "id": "quark_transfer_daily",
       "title": "夸克转存奖励",
-      "description": "复制链接到夸克完成转存，每天一次",
+      "description": "到夸克完成转存，每天一次",
       "points": 40,
       "type": "daily",
       "requirement": {
