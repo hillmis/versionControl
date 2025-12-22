@@ -14,7 +14,7 @@
     {
       "id": "share_app",
       "title": "分享给好友",
-      "description": "把 LyncMusic 推荐给 1 位好友即可完成",
+      "description": "把 LyncMusic 推荐给好友即可完成",
       "points": 15,
       "type": "daily",
       "requirement": { "type": "manual", "hint": "分享后点击领取" }
