@@ -1,7 +1,7 @@
 
 {
   "versionName": "1.0.0",
-  "versionCode": 100,
+  "versionCode": 101,
   "description": "<b>更新方法：</b><br>点击立即更新后用浏览器打开，找到对应文件夹，找到最新版本保存到网盘后即可下载，网盘中也有历史版本，可卸载新版体验任意版本<br><b>更新日志：</b><br><b>v1.0.0：</b><br>山猫音乐来了<br>出炉正式发布版<br>持续更新，感谢支持赞助<br><b>v0.0.1：</b><br>beta版本<br>",
   "downloadUrl": "https://pan.quark.cn/s/be0691bb5331#/",
   "forceUpdate": true
