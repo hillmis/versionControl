@@ -2,7 +2,7 @@
 {
   "versionName": "开源",
   "versionCode": 9999,
-  "description": "<b>公告：</b><br><b>开源版本：</b><br>已开源完整代码，音源删除，需自行配置音源<br>",
+  "description": "<b>开源版本：</b><br>已开源完整代码，音源删除，需自行配置音源，点击立即更新按钮进入GitHub仓库<br>",
   "downloadUrl": "https://github.com/hillmis/LynxMusic",
   "forceUpdate": false
 }
