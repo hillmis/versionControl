@@ -1,8 +1,8 @@
 {
-  "versionName": "0.0.1",     
-  "versionCode": 1,         
-  "description": "<b>更新方法：</b><br>点击立即更新后用浏览器打开，找到对应文件夹，找到最新版本保存到网盘后即可下载，网盘中也有历史版本，可卸载新版体验任意版本<br><b>更新日志：</b><br><b>v0.0.1：</b><br>第一版", 
-  "downloadUrl": "https://pan.quark.cn/s/e95909437fb0",  
-  "updadtetime":"2026.1.13"
+  "versionName": "0.0.1",
+  "versionCode": 1,
+  "description": "<b>更新方法：</b><br>点击立即更新后用浏览器打开，找到对应文件夹，找到最新版本保存到网盘后即可下载，网盘中也有历史版本，可卸载新版体验任意版本<br><b>更新日志：</b><br><b>v0.0.1：</b><br>第一版",
+  "downloadUrl": "https://pan.quark.cn/s/e95909437fb0",
+  "updateTime": "2026-01-13",
   "forceUpdate": false
 }
