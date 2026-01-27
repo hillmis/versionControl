@@ -5,7 +5,7 @@
     "author": "官方赞助商",
     "type": "视频",
     "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
-    "cover": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+    "cover": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800",
     "is_ad": true,
     "ad_link": "https://github.com/hillmis/versionControl",
     "like": 999,
@@ -21,7 +21,7 @@
     "author": "素材大库",
     "type": "视频",
     "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
-    "cover": "https://images.unsplash.com/photo-1550745165-9bc0b252726f",
+    "cover": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?w=800",
     "is_ad": true,
     "ad_link": "https://unsplash.com",
     "like": 520,
@@ -29,6 +29,115 @@
     "music_info": {
       "title": "律动节拍",
       "author": "广告配乐"
+    }
+  },
+  {
+    "id": "ad_v03",
+    "title": "未来之城：沉浸式感受数字艺术的魅力",
+    "author": "数字科技展",
+    "type": "视频",
+    "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/TearsOfSteel.mp4",
+    "cover": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800",
+    "is_ad": true,
+    "ad_link": "https://www.apple.com/v/apple-vision-pro/a/anim/hero/large_2x.mp4",
+    "like": 1240,
+    "comment": 89,
+    "music_info": {
+      "title": "科幻氛围感",
+      "author": "CyberSynth"
+    }
+  },
+  {
+    "id": "ad_g01",
+    "title": "2026 春季极简穿搭指南：重新定义你的风格",
+    "author": "时尚周刊",
+    "type": "图集",
+    "images": [
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=800",
+      "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=800",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800"
+    ],
+    "cover": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=800",
+    "is_ad": true,
+    "ad_link": "https://www.vogue.com",
+    "like": 3500,
+    "comment": 210,
+    "music_info": {
+      "title": "午后轻奢",
+      "author": "Jazz Lounge"
+    }
+  },
+  {
+    "id": "ad_v04",
+    "title": "探索深蓝：全球顶尖潜水胜地航拍赏析",
+    "author": "国家地理摄影",
+    "type": "视频",
+    "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+    "cover": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800",
+    "is_ad": true,
+    "ad_link": "https://www.nationalgeographic.com",
+    "like": 8840,
+    "comment": 670,
+    "music_info": {
+      "title": "海洋之声",
+      "author": "Deep Blue"
+    }
+  },
+  {
+    "id": "ad_g02",
+    "title": "治愈系室内家居：打造属于你的精神角落",
+    "author": "美好生活馆",
+    "type": "图集",
+    "images": [
+      "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800",
+      "https://images.unsplash.com/photo-1513519245088-0e12902e5a38?w=800",
+      "https://images.unsplash.com/photo-1524758631624-e2822e304c36?w=800",
+      "https://images.unsplash.com/photo-1505691938895-1758d7eaa511?w=800"
+    ],
+    "cover": "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800",
+    "is_ad": true,
+    "ad_link": "https://www.ikea.com",
+    "like": 6200,
+    "comment": 430,
+    "music_info": {
+      "title": "暖心治愈",
+      "author": "Home Comfort"
+    }
+  },
+  {
+    "id": "ad_v05",
+    "title": "速度与激情：新款超跑赛道首秀",
+    "author": "极速车讯",
+    "type": "视频",
+    "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoyrides.mp4",
+    "cover": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?w=800",
+    "is_ad": true,
+    "ad_link": "https://www.porsche.com",
+    "like": 15000,
+    "comment": 1200,
+    "music_info": {
+      "title": "引擎咆哮",
+      "author": "Turbo Beats"
+    }
+  },
+  {
+    "id": "ad_g03",
+    "title": "舌尖上的环球旅行：本月必尝的顶级美食",
+    "author": "美食探店",
+    "type": "图集",
+    "images": [
+      "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800",
+      "https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=800",
+      "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?w=800"
+    ],
+    "cover": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800",
+    "is_ad": true,
+    "ad_link": "https://www.michelin.com",
+    "like": 4300,
+    "comment": 560,
+    "music_info": {
+      "title": "烟火气",
+      "author": "Cooking Vibes"
     }
   }
 ]
