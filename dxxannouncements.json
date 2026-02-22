@@ -1,16 +1,23 @@
 ﻿[
     {
+        "id": 4,
+        "content": "douyin主页解析更新接口失效，有缘修复…",
+        "publishTime": "2026-02-22 23:11",
+        "popup": true,
+        "author": "hillmis"
+    },
+    {
         "id": 1,
         "content": "作者是业余开发，软件使用AI编程工具完成，若有不满请见谅，同时我衷心期待您的反馈和建议。",
         "publishTime": "2026-02-04 23:03",
-        "popup": true,
+        "popup": false,
         "author": "hillmis"
     },
     {
         "id": 2,
         "content": "系统维护通知：2026年1月26日 02:00-04:00 进行服务器维护。",
         "publishTime": "2026-01-24 15:30:00",
-        "popup": true,
+        "popup": false,
         "author": "系统管理员"
     },
     {
