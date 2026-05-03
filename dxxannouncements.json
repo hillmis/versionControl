@@ -1,9 +1,16 @@
 ﻿[
     {
+        "id": 6,
+        "content": "代码已开源到GitHub，地址：https://github.com/hillmis/douxiu_restructured_v7",
+        "publishTime": "2026-05-04 02:17",
+        "popup": true,
+        "author": "hillmis"
+    },
+     {
         "id": 5,
         "content": "douyin主页解析接口已修复。账号系统未完善，请见谅",
         "publishTime": "2026-03-17 20:57",
-        "popup": true,
+        "popup": false,
         "author": "hillmis"
     },
     {
